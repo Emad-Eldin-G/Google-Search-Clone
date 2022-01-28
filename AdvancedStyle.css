@@ -1,0 +1,54 @@
+html {
+    font-family: Arial, sans-serif;
+}
+
+h1{
+    color: #DB4437;
+    margin-bottom: 50px;
+    margin: 15px 45px;
+}
+
+h2{
+    text-decoration: none;
+    margin-bottom: 50px;
+}
+
+h3{
+    margin: 15px 45px;
+}
+
+tr{
+    height: 50px;
+}
+
+.Table {
+    position: relative;
+    margin: 15px 45px;
+  }
+
+.Table input{
+
+    width: 600px;
+    height: 20px;
+    border-radius: 0px;
+    border-width: 1px;
+    border-color: grey;
+}
+
+.searchbutton {
+    position: absolute;
+    font-size: 12px;
+    width: 110px;
+    left: 690px;
+}
+
+.searchbutton input{
+    padding: 8px;
+    background: #8ab4f8;
+    border-color: #8ab4f8;
+    color: #202124;
+    border-width: 1.11px;
+    border-radius: 5px;
+    box-shadow: none;
+}
+  

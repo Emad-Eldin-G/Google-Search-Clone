@@ -1,0 +1,119 @@
+h1 {
+    position: relative;
+    font-size: 100px;
+    font-family: Arial ,sans-serif;
+    text-align: center;
+    top: 70px;
+    
+}
+
+#G {
+    color: #4285F4;
+}
+
+#o {
+    color: #EA4335;
+}
+
+#o2 {
+    color: #FBBC05;
+}
+
+#g {
+    color: #4285F4;
+}
+
+#l {
+    color: #34A853;
+}
+
+#e {
+    color: #EA4335;
+}
+
+#links{
+    position: relative;
+    text-align: right;
+}
+
+#links li{
+    display: inline-block;
+    line-height: 24px;
+    vertical-align: middle;
+}
+
+#ImagesLink{
+    position: absolute;
+    right: 100px;
+}
+
+
+
+
+.SearchBar {
+    position: relative;
+    width: 100%;
+    height: 10em;
+}
+
+.SearchBar form{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+#googlesearch{
+    position: absolute;
+    top: 55px;
+    left: 135px;
+}
+#Lucky {
+    position: absolute;
+    top: 55px;
+    left: 270px;
+}
+#Bar{
+    font-size: 15px; 
+    width: 500px;
+    border-color:rgb(90, 90, 90); 
+    border-radius: 25px; 
+    height: 34px;
+    border-width: 1px;
+}
+
+
+
+.SearchButton {
+    position: relative;
+    width: 100%;
+    height: 10em;
+}
+
+.SearchButton form{
+    position: absolute;
+    bottom: 175px;
+    left: 40%;
+    transform: translate(-50%, -50%);
+}
+
+.LuckyButton {
+    position: relative;
+    width: 100%;
+    height: 10em;
+}
+
+.LuckyButton form{
+    position: absolute;
+    bottom: 334px;
+    left: 60%;
+    transform: translate(-50%, -50%);
+}
+
+
+
+
+
+
+
+
