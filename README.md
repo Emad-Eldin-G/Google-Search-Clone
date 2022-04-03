@@ -1,3 +1,3 @@
 # Google Search Clone
-A clone of Google's Normal-Image-Advanced search pages 
+A clone of Google's Search - Image Search - Advanced Search pages 
 (working-completed)
