@@ -1,2 +1,8 @@
 # Google Search Clone
-A clone of Google's Search - Image Search - Advanced Search pages  (completed)
+
+## Features  
+- Google text search
+- Google image search
+- Google advanced query search
+
+Status: (COMPLETE)
